@@ -1,3 +1,13 @@
 theme: jekyll-theme-minimal
-title: ualarp724's homepage
-description: Bookmark this to keep an eye on my project updates!
+title: "Arturo Rodríguez Pérez | Software Engineer @ UAL"
+description: >
+  Estudiante de 3º de Ingeniería Informática (Mención en Ingeniería del Software) 
+  en la Universidad de Almería. Especializado en arquitectura de software, 
+  desarrollo ágil y optimización de sistemas.
+
+author: "Arturo Rodríguez Pérez"
+location: "Almería, España"
+university: "Universidad de Almería (UAL)"
+specialization: "Ingeniería del Software"
+github_username: ualarp724
+show_downloads: true
